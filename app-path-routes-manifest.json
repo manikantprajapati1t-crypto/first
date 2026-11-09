@@ -1,0 +1,21 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/admin/page": "/admin",
+  "/api/admin/login/route": "/api/admin/login",
+  "/api/admin/logout/route": "/api/admin/logout",
+  "/api/admin/properties/[id]/route": "/api/admin/properties/[id]",
+  "/api/admin/properties/route": "/api/admin/properties",
+  "/api/admin/upload/route": "/api/admin/upload",
+  "/api/health/route": "/api/health",
+  "/api/inquiries/route": "/api/inquiries",
+  "/api/media/[id]/route": "/api/media/[id]",
+  "/contact/page": "/contact",
+  "/page": "/",
+  "/properties/[slug]/page": "/properties/[slug]",
+  "/properties/page": "/properties",
+  "/robots.txt/route": "/robots.txt",
+  "/services/page": "/services",
+  "/sitemap.xml/route": "/sitemap.xml"
+}
